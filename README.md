@@ -1,9 +1,9 @@
 # EXP-03-Implement-Breadth-First-Search-Traversal-of-a-Graph
 
-Name:Hari Karthik S
+Name: Mohamed Fahad S
 
 
-Register Number: 212224080017
+Register Number: 212224080037
 
 Breadth First Search Traversal of a Graph
 
